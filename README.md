@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to Automatic Email and Report Generator using AI project
 
 ## Project info
 
